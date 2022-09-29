@@ -1,0 +1,15 @@
+C:\Users\sloar\source\repos\snake game\snake game\obj\Debug\snake game.csproj.AssemblyReference.cache
+C:\Users\sloar\source\repos\snake game\snake game\obj\Debug\snake game.csproj.SuggestedBindingRedirects.cache
+C:\Users\sloar\source\repos\snake game\snake game\obj\Debug\snake_game.Form1.resources
+C:\Users\sloar\source\repos\snake game\snake game\obj\Debug\snake_game.Properties.Resources.resources
+C:\Users\sloar\source\repos\snake game\snake game\obj\Debug\snake game.csproj.GenerateResource.cache
+C:\Users\sloar\source\repos\snake game\snake game\obj\Debug\snake game.csproj.CoreCompileInputs.cache
+C:\Users\sloar\source\repos\snake game\snake game\bin\Debug\snake game.exe.config
+C:\Users\sloar\source\repos\snake game\snake game\bin\Debug\snake game.exe
+C:\Users\sloar\source\repos\snake game\snake game\bin\Debug\snake game.pdb
+C:\Users\sloar\source\repos\snake game\snake game\obj\Debug\snake game.exe
+C:\Users\sloar\source\repos\snake game\snake game\obj\Debug\snake game.pdb
+C:\Users\sloar\source\repos\snake game\snake game\bin\Debug\snake game.exe.manifest
+C:\Users\sloar\source\repos\snake game\snake game\bin\Debug\snake game.application
+C:\Users\sloar\source\repos\snake game\snake game\obj\Debug\snake game.exe.manifest
+C:\Users\sloar\source\repos\snake game\snake game\obj\Debug\snake game.application
